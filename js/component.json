@@ -1,0 +1,12 @@
+{
+  "name": "Kiso",
+  "version": "0.1",
+  "main": [
+    "./css/style.css",
+    "./js/main.js"
+  ],
+  "dependencies": {
+    "jquery": "git://github.com/components/jquery.git#1.8.1",
+    "jquery-ui": "git://github.com/components/jqueryui"
+  }
+}
